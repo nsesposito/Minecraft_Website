@@ -1,0 +1,5 @@
+{
+  "name": "Bedrock Builder & FMBE Converter",
+  "description": "A 3D Minecraft Bedrock compatible voxel editor with FMBE command export functionality.",
+  "requestFramePermissions": []
+}
